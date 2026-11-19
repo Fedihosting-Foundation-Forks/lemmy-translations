@@ -458,7 +458,6 @@
     "rate_limit_register": "Registrierungen",
     "rate_limit_resend_verification_email": "Bestätigungsmails pro IP",
     "rate_limit_resend_verification_email_per_account": "Bestätigungsmails pro Konto",
-    "rate_limit_verification_email_info": "Für das erneute Anfordern von Bestätigungsmails gelten getrennte Grenzen pro IP-Adresse und pro Konto. Die Grenze pro Konto zählt alle Bestätigungsmails im Zeitfenster, auch die bei der Registrierung, und gilt über alle IP-Adressen hinweg. Eine Anzahl von 0 deaktiviert den erneuten Versand. Zeitfenster müssen mindestens 1 Sekunde betragen. Die Grenze pro IP wird pro Serverprozess gezählt und bei einem Neustart zurückgesetzt.",
     "invalid_rate_limit": "Rate-Limits müssen ganze Zahlen sein: mindestens 0 Anfragen und ein Zeitfenster von mindestens 1 Sekunde.",
     "rate_limit_image": "Bilder",
     "rate_limit_comment": "Kommentare",
